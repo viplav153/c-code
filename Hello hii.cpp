@@ -2,7 +2,8 @@
 using namespace std;
 int main()
 {
-	cout<<"Hello hii this has been edited"<<endl;
+	cout<<"Hi prAgati i love you!!"<<endl;
+	cout<<"i am eagerly waiting for you"<<endl;
 	return 0;
 }
   
