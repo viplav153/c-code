@@ -40,7 +40,7 @@ void insert(struct node *t,int key)
 					t=t->rchild;
 				else
 				{
-					printf("Element already present\n");
+					printf("Khusi already present\n");
 					return;
 				}
 			}
@@ -139,3 +139,5 @@ int main()
 		}
 	}
 }
+// nice code keep this work doing 
+// you are a five star coder
