@@ -6,6 +6,7 @@ struct node
 	int data;
 	struct node *rchild;
 }*root=NULL;
+printf("Binary search tree");
 FILE *fp;
 void insert(struct node *t,int key)
 {
