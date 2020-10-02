@@ -8,6 +8,12 @@ struct node
 }*root=NULL;
 printf("Binary search tree");
 FILE *fp;
+void up(int n)
+{
+	int a;
+	scanf("%d",&a);
+	printf("Value of a provided is : ",a); 
+}
 void insert(struct node *t,int key)
 {
 	//fp=fopen("Btrees1","r");
